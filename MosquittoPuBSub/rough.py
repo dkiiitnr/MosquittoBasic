@@ -1,4 +1,4 @@
-class Suyash:
+class Deepak:
     def __init__(self, name, surname, age):
         self.name = name
         self.surname = surname
@@ -9,7 +9,7 @@ class Suyash:
 
 
 def main():
-    obj = Suyash('Suyash', 'Walkunde', 23)
+    obj = Deepak('Deepak', 'Kumar', 23)
     obj.print_fullname()
 
 

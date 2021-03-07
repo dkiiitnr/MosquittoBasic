@@ -3,7 +3,7 @@ import time
 import pandas as pd
 
 # Taking the variables for the methods
-client = mqtt.Client("Suyash")
+client = mqtt.Client("Deepak")
 topicName = "unbox/frame_to_aggregator"
 QOS_val = 2
 count = 0
